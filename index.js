@@ -4,8 +4,8 @@ const axios = require("axios");
 const qs = require("qs");
 
 const config = {
-  channelAccessToken: "xxx", // add your channel access token
-  channelSecret: "xxx", // add your channel secret
+  channelAccessToken: "44PoV5jes2d4YNh0IwEOZbhyphoVu5lohrjg2doNyUQ6UmMHe0KrAK8woVNOWSVaARmMxZiYmvyMMbhSGwLk08Yg5CUcS2pxi5Dz9r+M+RpBgeIhO2umjqWEZqnhZtetAKOz812JReLVxf9G3QP10wdB04t89/1O/w1cDnyilFU=", // add your channel access token
+  channelSecret: "a4481907cd83292502221f39eb7cc2ac", // add your channel secret
 };
 
 const APPS_SCRIPT_URL = "xxx"; // add your google app script url
